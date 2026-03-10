@@ -21,7 +21,7 @@ During this audit, I identified **15** bugs. The findings were documented with t
 * **Severity:** Critical, Major, Minor, Low.
 * **Steps to Reproduce:** Clear, concise instructions to ensure the dev team can replicate the issue.
 * **Expected vs. Actual Results:** Highlighting the discrepancy.
-* **Evidence:** [Attached screenshots/video clips for visual verification.](https://docs.google.com/spreadsheets/d/1UnhhVuf5Nij5qZRTBDOvqpVYvrb7XBmP/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
+* **Evidence:** [Bug report Doc](https://docs.google.com/spreadsheets/d/1UnhhVuf5Nij5qZRTBDOvqpVYvrb7XBmP/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
 
 ## 🎓 Key Learnings (The "QA Mindset")
 Performing this audit allowed me to sharpen several core QA competencies:
